@@ -6,7 +6,6 @@ public class GoogleBillboard {
 		System.out.println("7.427466391E9");
 	}
 	
-/*
 	//Finish this function
 public static boolean isPrime(double d){
 if(d <= 1){return false;}
@@ -15,4 +14,3 @@ if(d%i == 0)return false;
   }
   return true;   
 }
-	*/
